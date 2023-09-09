@@ -322,7 +322,7 @@ a:focus {
     width: 620px;
 }
 
-.panel1 {
+.span7 {
     width: 540px;
 }
 
@@ -459,7 +459,7 @@ a:focus {
     *width: 65.90425531914893%;
 }
 
-.row-fluid .panel1 {
+.row-fluid .span7 {
     width: 57.44680851063829%;
     *width: 57.39361702127659%;
 }
@@ -1342,8 +1342,8 @@ table th[class*="span"],
     margin-left: 0;
 }
 
-.table td.panel1,
-.table th.panel1 {
+.table td.span7,
+.table th.span7 {
     float: none;
     width: 524px;
     margin-left: 0;
@@ -1756,9 +1756,9 @@ textarea.span8,
     width: 606px;
 }
 
-input.panel1,
-textarea.panel1,
-.uneditable-input.panel1 {
+input.span7,
+textarea.span7,
+.uneditable-input.span7 {
     width: 526px;
 }
 
@@ -5862,7 +5862,7 @@ button.close {
         width: 476px;
     }
 
-    .panel1 {
+    .span7 {
         width: 414px;
     }
 
@@ -5999,7 +5999,7 @@ button.close {
         *width: 65.69266486422946%;
     }
 
-    .row-fluid .panel1 {
+    .row-fluid .span7 {
         width: 57.18232044198895%;
         *width: 57.12912895262725%;
     }
@@ -6194,9 +6194,9 @@ button.close {
         width: 462px;
     }
 
-    input.panel1,
-    textarea.panel1,
-    .uneditable-input.panel1 {
+    input.span7,
+    textarea.span7,
+    .uneditable-input.span7 {
         width: 400px;
     }
 
@@ -6287,7 +6287,7 @@ button.close {
         width: 770px;
     }
 
-    .panel1 {
+    .span7 {
         width: 670px;
     }
 
@@ -6424,7 +6424,7 @@ button.close {
         *width: 65.75877432260411%;
     }
 
-    .row-fluid .panel1 {
+    .row-fluid .span7 {
         width: 57.26495726495726%;
         *width: 57.21176577559556%;
     }
@@ -6619,9 +6619,9 @@ button.close {
         width: 756px;
     }
 
-    input.panel1,
-    textarea.panel1,
-    .uneditable-input.panel1 {
+    input.span7,
+    textarea.span7,
+    .uneditable-input.span7 {
         width: 656px;
     }
 
