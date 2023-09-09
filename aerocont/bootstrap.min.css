@@ -7,6 +7,10 @@
  *
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .clearfix {
     *zoom: 1;
 }

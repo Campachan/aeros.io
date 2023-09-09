@@ -9,6 +9,9 @@
  * Contributing author: Tyler Smith (@mbmufffin)
  */
 
+html {
+    font-family: 'Montserrat', sans-serif;
+}
 
 /* Browser Resets */
 .flex-container a:active,
