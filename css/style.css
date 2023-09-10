@@ -89,8 +89,9 @@ html * {
     text-align: center;
 }
 
-.centered-text h1 {
-    font-size: 70px;
+.centered-text h1,
+.centered-text p.sub-text {
+    font-size: 60px;
     /* Ajusta el tamaño de fuente deseado */
     color: white;
     /* Color del texto */
@@ -101,19 +102,12 @@ html * {
     font-weight: bold;
     /* Hace que el texto sea negrita */
     /* Otros estilos de texto, si es necesario */
-
+}
 
 .centered-text p.sub-text {
     color: orange;
-    font-size: 50px;
-    /* Ajusta el tamaño de fuente deseado */
-    color: white;
-    /* Color del texto */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-    /* Sombra de texto */
-    white-space: nowrap;
-    /* Evita el desplazamiento a la siguiente línea */
-    font-weight: bold;
+    font-size: 40px;
+    /* Cambia el color del texto a naranja */
 }
 
 
