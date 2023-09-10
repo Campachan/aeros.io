@@ -11,7 +11,7 @@ html {
 
 html,
 body {
-    width: 100%;
+    width: 100%;f
     height: 100%;
 }
 
@@ -415,9 +415,9 @@ ul {
 
 .imagen-posicionada {
     position: absolute;
-    top: 50px;
-    left: 50px;
-    width: 600px;
+    top: 1px;
+    left: 1px;
+    width: 450px;
     height: auto;
 
 }
